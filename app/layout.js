@@ -1,0 +1,1 @@
+import './style.css';export const metadata={title:"Bish's RV TEC Placement Assessment"};export default function Layout({children}){return <html lang="en"><body>{children}</body></html>}
